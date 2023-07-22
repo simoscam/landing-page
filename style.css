@@ -15,7 +15,8 @@
 .section-1,
 .section-2,
 .section-3,
-.section-4 {
+.section-4,
+footer {
   width: 1100px;
   display: flex;
   justify-content: space-between;
@@ -189,4 +190,10 @@ h2 {
   border-radius: 5px;
   border: 3px solid #fff;
 
+}
+
+.footer {
+  padding: 10px;
+  text-align: center;
+  color: white;
 }
